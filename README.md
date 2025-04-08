@@ -13,3 +13,4 @@ with others in different locations without the use of any physical connection
 Assignments:
 1. [Channel Fading](https://github.com/matlabf/channel-fading)
 2. [Handwritten](Assignments/02.pdf)
+![](https://ga-beacon.deno.dev/G-ERJXRWVLBT:BGFjXiiDQ5-gqJoAeoZGqg/github.com/nitrece/mobile-communication)
